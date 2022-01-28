@@ -1,0 +1,15 @@
+C:\Users\Admins\source\repos\CodeBattle\CodeBattle\bin\Debug\net6.0\CodeBattle.exe
+C:\Users\Admins\source\repos\CodeBattle\CodeBattle\bin\Debug\net6.0\CodeBattle.deps.json
+C:\Users\Admins\source\repos\CodeBattle\CodeBattle\bin\Debug\net6.0\CodeBattle.runtimeconfig.json
+C:\Users\Admins\source\repos\CodeBattle\CodeBattle\bin\Debug\net6.0\CodeBattle.dll
+C:\Users\Admins\source\repos\CodeBattle\CodeBattle\bin\Debug\net6.0\ref\CodeBattle.dll
+C:\Users\Admins\source\repos\CodeBattle\CodeBattle\bin\Debug\net6.0\CodeBattle.pdb
+C:\Users\Admins\source\repos\CodeBattle\CodeBattle\obj\Debug\net6.0\CodeBattle.csproj.AssemblyReference.cache
+C:\Users\Admins\source\repos\CodeBattle\CodeBattle\obj\Debug\net6.0\CodeBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admins\source\repos\CodeBattle\CodeBattle\obj\Debug\net6.0\CodeBattle.AssemblyInfoInputs.cache
+C:\Users\Admins\source\repos\CodeBattle\CodeBattle\obj\Debug\net6.0\CodeBattle.AssemblyInfo.cs
+C:\Users\Admins\source\repos\CodeBattle\CodeBattle\obj\Debug\net6.0\CodeBattle.csproj.CoreCompileInputs.cache
+C:\Users\Admins\source\repos\CodeBattle\CodeBattle\obj\Debug\net6.0\CodeBattle.dll
+C:\Users\Admins\source\repos\CodeBattle\CodeBattle\obj\Debug\net6.0\ref\CodeBattle.dll
+C:\Users\Admins\source\repos\CodeBattle\CodeBattle\obj\Debug\net6.0\CodeBattle.pdb
+C:\Users\Admins\source\repos\CodeBattle\CodeBattle\obj\Debug\net6.0\CodeBattle.genruntimeconfig.cache
